@@ -1,0 +1,8 @@
+This is a simple UI that you can use with Rasa.
+
+The original code comes from Sajad Hashemian (https://codepen.io/sajadhsm/pen/odaBdd)
+
+Note you first have to start the Rasa chatbot server:
+rasa run --cors "*"
+
+Then just open the index.html file with your browser.
